@@ -60,5 +60,3 @@ The output includes bounding boxes, predicted gesture labels, Grad-CAM heatmaps,
 This project demonstrates an effective integration of **deep learning, explainable AI, and multimodal interaction** for real-time ISL recognition, enabling accessible and inclusive communication.
 
 ---
-
-### Folder Structure
