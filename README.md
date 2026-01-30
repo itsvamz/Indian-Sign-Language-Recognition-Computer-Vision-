@@ -10,7 +10,7 @@ The system combines **YOLOv8** for hand detection, **MobileNetV2** for lightweig
 ## Project Workflow
 The overall pipeline of the proposed system is shown below:
 
-![Project Workflow](isl workflow.png)
+![Project Workflow](isl_workflow.png)
 
 **Pipeline:**  
 Input Video → YOLOv8 Hand Detection → ROI Extraction → MobileNetV2 Classification → Grad-CAM Explainability → Text & Speech Output
@@ -20,7 +20,7 @@ Input Video → YOLOv8 Hand Detection → ROI Extraction → MobileNetV2 Classif
 ## ISL Recognition Results
 Sample output demonstrating detection, classification, and explainability:
 
-![ISL Recognition Result](isl result.png)
+![ISL Recognition Result](isl_result.png)
 
 The output includes bounding boxes, predicted gesture labels, Grad-CAM heatmaps, and real-time text-to-speech feedback.
 
